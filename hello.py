@@ -1,8 +1,5 @@
 def add(x, y):
     return x + y
 
-
-x = 1
-y = 2
-result = add(x, y)
-print(f"Some addition {x} + {y} = {result}")
+result = add(1, 2)
+print(f"Some addition 1 + 2 = {result}")
